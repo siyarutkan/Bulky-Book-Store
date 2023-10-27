@@ -6,13 +6,11 @@ Key Features:
 
 User-Friendly Frontend: The ASP.NET MVC frontend offers an intuitive and responsive user interface, allowing customers to easily browse products, add items to their shopping carts, and proceed to secure checkout.
 
-Product Catalog: The system manages a vast catalog of products, with the ability to categorize, search, and filter products, complete with detailed product descriptions, images, and customer reviews.
-
 Authentication and Authorization: Users can create accounts, sign in, and manage their profiles. Role-based authorization ensures that only authorized personnel can access the admin dashboard.
 
-Shopping Cart and Checkout: Customers can add items to their shopping carts, review and update their orders, and make secure payments through various payment gateways, such as PayPal and credit card processing.
+Shopping Cart and Checkout: Customers can add items to their shopping carts, update their orders, and make secure payments through various payment gateways, such as PayPal and credit card processing.
 
-Inventory Management: Admins can easily manage product inventory, including adding, updating, and removing products. Real-time stock tracking ensures accurate product availability.
+Inventory Management: Admins can easily manage product inventory, including adding, updating, and removing products. Real-time product tracking ensures accurate product availability.
 
 Order Management: The system allows administrators to process and track customer orders, update order statuses, and manage customer communications.
 
